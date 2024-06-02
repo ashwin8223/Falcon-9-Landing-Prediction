@@ -1,2 +1,2 @@
-# Falcon-9-Launch-Prediction
-This project involves in launch prediction of Falcon 9 first stage.
+# Falcon-9-Landing-Prediction
+This project involves whether Falcon 9 will land successfully after first stage.
